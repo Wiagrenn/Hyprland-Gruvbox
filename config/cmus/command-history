@@ -1,0 +1,13 @@
+cd .music
+q
+reload
+colorscheme gruvbox-night
+colorscheme dracula
+colorscheme gruvbox-alt
+colorscheme gruvbox_redux
+colorscheme night
+cd ~/.music
+colorscheme gruvbox
+colorscheme
+rm -rf ALISOV, ASKEL - SADNESS.mp3
+set music_directory=~/.music
